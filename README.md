@@ -1,4 +1,5 @@
 Dynamic project loader and updater project i made
+Project is under [projectupdater.pmp](projectupdater.pmp)
 Should work good right out of the box, all you need to do:
 - Make a public github repo, this repo(the one you're in right now) is used in the project for the demo.
 - Edit the values in the stage/backdrop code to match your github username as well as the name of the repo you made.
