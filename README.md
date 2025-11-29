@@ -14,4 +14,4 @@ Enjoy!
 
 small note: this project will not work well for private cases, such as uploading your own project to itch.io to be paid for with money, since this requires a public github repo, as well the fact that the downloaded project files that you create are saved in the filesystem.
 
-smaller note: just remembered that one of the things i use errors if not in a nodejs environment so you can't load project in browser editor to edit GitHub stuff, use my [nodejs editor](https://github.com/FreshPenguin112/NodeJs-Desk-Penguin) until i fix that.
+smaller note: just remembered that one of the things i use errors if not in a nodejs environment so you can't load project in browser editor to edit GitHub stuff, use my [nodejs editor](https://github.com/FreshPenguin112/NodeJs-Desk-Penguin) until i fix that. (use latest actions run artifact for either Windows or Linux).
